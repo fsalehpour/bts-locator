@@ -1,0 +1,19 @@
+{
+    "name": "fsalehpour/bts-locator",
+    "description": "Common interfaces for BTS locators",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faramarz Salehpour",
+            "email": "subs@marz.co"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FSalehpour\\BTSLocator\\": "src/"
+        }
+    }
+}
